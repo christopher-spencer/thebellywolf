@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy 👋
+
+I'm currently learning css, javascript, and the basics of programming.
 
 <!--
 **thebellywolf/thebellywolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
